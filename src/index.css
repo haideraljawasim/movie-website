@@ -1,0 +1,7 @@
+@import "tailwindcss";
+:root {
+  background: hsl(0, 0%, 62%);
+}
+@theme {
+  --font-robot: "Roboto Mono", "serif";
+}
